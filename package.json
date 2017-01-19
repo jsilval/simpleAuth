@@ -1,0 +1,22 @@
+{
+  "name": "simpleauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "1.15.1",
+    "connect": "3.4.1",
+    "express": "4.13.4",
+    "mysql": "2.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "auth"
+  ],
+  "author": "jose silva",
+  "license": "ISC"
+}
